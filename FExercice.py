@@ -8,3 +8,5 @@ smaller_letters = [char for char in characters if char.islower()]
 
 print("Capital letters:", capital_letters)
 print("Smaller letters:", smaller_letters)
+
+
