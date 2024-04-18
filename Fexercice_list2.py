@@ -1,5 +1,5 @@
 liste = ['a', 'b', 'c', 'd']
-a = input()
+a = input("entrer r ou l : ")
 
 
 if (a == "r"):
