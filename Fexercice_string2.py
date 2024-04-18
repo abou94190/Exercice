@@ -8,7 +8,7 @@ print(mot_python)  # Output: Python
 # Extraire apprendre en utlisant les indices
 mot_apprendre = chaine.split()[-1]
 print(mot_apprendre)  # Output: apprendre
-phrase = chaine[chaine.find("langage"):chaine.find("puissant") + len("puissant")]
+phrase = chaine[chaine.find("langage"):chaine.find("programmation") + len("programmation")]
 print(phrase)  # Output: langage de programmation
 # Inverser la chaine de caractère
 chaine_inverse = chaine[::-1]  # commencer a partir de la fin
