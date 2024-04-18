@@ -13,5 +13,5 @@ print(phrase)  # Output: langage de programmation
 # Inverser la chaine de caractère
 chaine_inverse = chaine[::-1]  # commencer a partir de la fin
 print(chaine_inverse)
-# Output: ".erdnerppa à elicaf te tnatsiup ed tniamuorp ed egagneal nu tse nohtyP"
+# Outp".erdnerppa à elicaf te tnatsiup ed tniamuorp ed egagneal nu tse nohtyP"
 

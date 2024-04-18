@@ -7,3 +7,4 @@ b = int(input("b="))
 
 c = addition(a, b)
 print('total =', c, 'points')
+#  fin du code
