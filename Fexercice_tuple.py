@@ -14,8 +14,10 @@ def tuple_max_elements(tuple_list):
     return max_tuple
 
 # Exemple d'utilisation
-liste_tuples = [(1, 2), (3, 4, 5), (6,), (7, 8, 9, 10)]
-resultat = tuple_max_elements(liste_tuples)
+
+
+tuple_list = [(1, 2), (3, 4, 5), (6,), (7, 8, 9, 10)]
+resultat = tuple_max_elements(tuple_list)
 
 if resultat:
     print("Le tuple avec le plus d'éléments est :", resultat)
