@@ -10,7 +10,7 @@ class Graph:
 
     def display(self):
         for vertex in self.graph:
-            print(vertex, '->', ' -> '.join(map(str, self.graph[vertex])))
+            print(vertex, '->', ' -> 'git
 
 # Creating an instance of the Graph class
 graph = Graph()
